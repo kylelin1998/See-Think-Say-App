@@ -11,6 +11,8 @@ There are some matters about the settings of this software that we need to discu
 
 This app only requests ChatGPT Api and Github for requesting update data and no other.
 
+![1d1d305617591002ee1b8aea9789e9d1a3acab4f.png](https://openimg.kylelin1998.com/img/1d1d305617591002ee1b8aea9789e9d1a3acab4f.png)
+
 ## About
 My telegram: https://t.me/KyleLin1998
 
