@@ -7,3 +7,10 @@
 关于该软件的设置，你可以选择是否通过代理请求ChatGPT API，此外，你还可以自定义GPT模型的设置。
 
 这个应用程序目前只请求ChatGPT Api和Github来请求更新数据，没有其他请求。
+
+## 关于我
+我的TG: https://t.me/KyleLin1998
+
+我的TG频道: https://t.me/KyleLin1998Channel
+
+我的邮箱: email@kylelin1998.com
