@@ -3,7 +3,7 @@
 
 [![release](https://img.shields.io/github/v/release/kylelin1998/See-Think-Say-App)](https://github.com/kylelin1998/See-Think-Say-App/releases/latest)
 
-**See Think Say App** is a cross-platform software based on ChatGPT. For now, supports Android, Windows, and Linux. 
+**See Think Say App** is a cross-platform software based on ChatGPT. For now, supports Android, Windows, MacOS, and Linux.
 
 You can run it everywhere to use. The software UI is clean and simple to focus on the chat.
 
