@@ -10,7 +10,7 @@
 
 Web版本项目地址： https://github.com/kylelin1998/See-Think-Say-Web
 
-![1d1d305617591002ee1b8aea9789e9d1a3acab4f.png](https://openimg.kylelin1998.com/img/1d1d305617591002ee1b8aea9789e9d1a3acab4f.png)
+![c4affe9a13b44c2015b68c8655448ebcc8886246.png](https://openimg.kylelin1998.com/img/c4affe9a13b44c2015b68c8655448ebcc8886246.png)
 
 ## 关于我
 我的TG: https://t.me/KyleLin1998
