@@ -8,6 +8,11 @@
 
 这个应用程序目前只请求ChatGPT Api和Github来请求更新数据，没有其他请求， 对话数据全部存放在本地。
 
+主要功能有:
+1. 快捷文本回复
+2. 录制重放对话
+3. 搭配web版本使用可无视网络环境， 也就是不需要开代理就够使用了
+
 Web版本项目地址： https://github.com/kylelin1998/See-Think-Say-Web
 
 ![c4affe9a13b44c2015b68c8655448ebcc8886246.png](https://openimg.kylelin1998.com/img/c4affe9a13b44c2015b68c8655448ebcc8886246.png)
