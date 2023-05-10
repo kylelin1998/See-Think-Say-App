@@ -2,7 +2,7 @@
 
 [![release](https://img.shields.io/github/v/release/kylelin1998/See-Think-Say-App)](https://github.com/kylelin1998/See-Think-Say-App/releases/latest)
 
-见思千言是基于ChatGPT的跨平台软件。 目前支持Android、Windows、MacOS和Linux系统以及支持Web，你可以在任何地方运行它。用户界面简洁，专注于聊天。
+见思千言是基于ChatGPT的跨平台软件。 目前支持Android、IOS、Windows、MacOS和Linux系统以及支持Web，你可以在任何地方运行它。用户界面简洁，专注于聊天。
 
 关于该软件的设置，你可以选择是否通过代理请求ChatGPT API，此外，你还可以自定义GPT模型的设置。
 
@@ -14,6 +14,10 @@
 3. 搭配web版本使用可无视网络环境， 也就是不需要开代理就能使用了
 
 Web版本项目地址： https://github.com/kylelin1998/See-Think-Say-Web
+
+Google Play - 谷歌商店下载: https://play.google.com/store/apps/details?id=com.kylelin1998.seethinksayapp
+
+IOS用户直接在商店内搜索“见思千言”即可进行下载
 
 ![c4affe9a13b44c2015b68c8655448ebcc8886246.png](https://openimg.kylelin1998.com/img/c4affe9a13b44c2015b68c8655448ebcc8886246.png)
 
